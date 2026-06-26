@@ -32,3 +32,11 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
