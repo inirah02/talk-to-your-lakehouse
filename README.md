@@ -173,3 +173,10 @@ The MCP server trims table metadata before sending it to the LLM. This is import
 
 The client uses model tool calling instead of prompting the model with raw metadata. This makes the agent behavior easier to inspect because every tool call and tool result is printed in the terminal.
 
+## Talk slides
+
+This demo is part of [the talk at Cloudera](https://www.meetup.com/futureofdata-bangalore/events/315083998/?eventOrigin=attendee_list) **Talk to Your Lakehouse: Building an MCP Server for Apache Iceberg**.
+
+Slides are available here:
+
+[View the talk slides](https://docs.google.com/presentation/d/13Wpu_5xVB5UKrLdR2qCS1C8wQ_h_SzU2pRR2Wi0YST4/edit?usp=sharing)
